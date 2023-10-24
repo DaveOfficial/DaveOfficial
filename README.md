@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deivid Nikolov</h1>
 <h3 align="center">I'm student and this year I started my journey. In the world of programming. Right now I'm learning Java and some of the basics to make a website - PHP, CSS, JavaScript, HTML.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daveofficial&label=Profile%20views&color=0e75b6&style=flat" alt="daveofficial" /> </p>
+![image](https://github.com/DaveOfficial/DaveOfficial/assets/148842995/e8d2a2ac-b487-415f-a926-49029455d135)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daveofficial" alt="daveofficial" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daveofficial&label=Profile%20views&color=0e75b6&style=flat" alt="daveofficial" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deyvid-nikolov-239021298/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bqqo2xipvsycyay5jeyho2q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deyvid-nikolov-239021298/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bqqo2xipvsycyay5jeyho2q%3d%3d" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22793053/deyvid-nikolov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22793053/deyvid-nikolov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
