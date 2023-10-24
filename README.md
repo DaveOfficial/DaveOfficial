@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deivid Nikolov</h1>
-<h3 align="center">I'm student and this year I started my journey. In the world of programming. Right now I'm learning Java and some of the basics to make a website - PHP, CSS, JavaScript, HTML.</h3>
+<h3 align="center">I'm student and this year I started my journey in the world of programming. Right now I'm learning Java and some of the basics to make a website - PHP, CSS, JavaScript, HTML.</h3>
 
 ![image](https://github.com/DaveOfficial/DaveOfficial/assets/148842995/e8d2a2ac-b487-415f-a926-49029455d135)
 
